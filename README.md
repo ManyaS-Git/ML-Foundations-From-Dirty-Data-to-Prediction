@@ -4,9 +4,13 @@ This repository contains a collection of foundational machine learning notebooks
 
 It covers:
 ~Data cleaning and missing value handling 
+
 ~Train–test splitting
+
 ~Feature transformation (log / function-based)
+
 ~Feature selection techniques
+
 ~Regression models (Linear, Multiple Linear, Polynomial)
 
 The goal of this project is to understand how raw data is transformed into model-ready data and how different preprocessing steps impact model performance.
