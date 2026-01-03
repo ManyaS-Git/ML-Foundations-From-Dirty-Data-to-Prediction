@@ -3,7 +3,7 @@ Machine Learning Foundations
 This repository contains a collection of foundational machine learning notebooks focused on building strong preprocessing and modeling fundamentals using real-world datasets.
 
 It covers:
-~Data cleaning and missing value handling
+~Data cleaning and missing value handling   \n
 ~Train–test splitting
 ~Feature transformation (log / function-based)
 ~Feature selection techniques
